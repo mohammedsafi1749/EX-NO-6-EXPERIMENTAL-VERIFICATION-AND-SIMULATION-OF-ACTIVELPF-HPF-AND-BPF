@@ -181,7 +181,9 @@ PROCEDURE - ( HPF):
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
----
+<img width="1171" height="805" alt="image" src="https://github.com/user-attachments/assets/5745b45e-bea1-436b-9344-55d03dc6900d" />
+
+<img width="1919" height="1042" alt="image" src="https://github.com/user-attachments/assets/0694d985-8d19-4feb-ade8-bd5cc65cf100" />
 
  ## 6C Band Pass Filter
 
