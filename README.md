@@ -179,10 +179,13 @@ PROCEDURE - ( HPF):
 | 11   |                |                    |                             |
 | 12   |                |                    |                             |
 
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/74cc3322-b86c-4f9e-a51b-1e265463662a" />
+
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/46278a57-8868-4118-a4dc-e6cb1b8ce6c3" />
 
 <img width="1919" height="1042" alt="image" src="https://github.com/user-attachments/assets/0694d985-8d19-4feb-ade8-bd5cc65cf100" />
 
@@ -265,10 +268,13 @@ PROCEDURE:BAND PASS FILTER
 | 11   |                |                    |                             |
 | 12   |                |                    |                             |
 
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/03cd0fd2-ad87-410b-8240-939e3cef74f9" />
+
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/f887c7a2-91b4-4eec-9352-0d4871c147a6" />
 
 <img width="1919" height="1042" alt="image" src="https://github.com/user-attachments/assets/5deefdb3-1c9b-4f12-998b-efe4ab33a5d0" />
 
