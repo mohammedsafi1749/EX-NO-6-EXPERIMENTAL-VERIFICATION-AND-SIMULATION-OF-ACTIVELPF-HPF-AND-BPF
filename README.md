@@ -96,7 +96,6 @@ PROCEDURE - (LPF):
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-<img width="1446" height="848" alt="image" src="https://github.com/user-attachments/assets/aae91f1b-da16-4a93-b5e8-049f2e245a87" />
 
 <img width="1919" height="1047" alt="image" src="https://github.com/user-attachments/assets/c60e30bd-5fd6-4392-b5da-83d5e1e29bb2" />
 
@@ -181,7 +180,6 @@ PROCEDURE - ( HPF):
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-<img width="1171" height="805" alt="image" src="https://github.com/user-attachments/assets/5745b45e-bea1-436b-9344-55d03dc6900d" />
 
 <img width="1919" height="1042" alt="image" src="https://github.com/user-attachments/assets/0694d985-8d19-4feb-ade8-bd5cc65cf100" />
 
@@ -268,7 +266,6 @@ PROCEDURE:BAND PASS FILTER
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-<img width="1248" height="705" alt="image" src="https://github.com/user-attachments/assets/299456f9-5b32-43b7-a92e-9e3b75d19754" />
 
 <img width="1919" height="1042" alt="image" src="https://github.com/user-attachments/assets/5deefdb3-1c9b-4f12-998b-efe4ab33a5d0" />
 
