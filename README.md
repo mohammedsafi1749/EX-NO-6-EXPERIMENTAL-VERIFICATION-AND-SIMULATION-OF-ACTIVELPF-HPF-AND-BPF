@@ -92,10 +92,13 @@ PROCEDURE - (LPF):
 | 12   |                |                    |                             |
 		
 
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/89f2af13-7f71-4a08-8ebb-8af864092f1a" />
+
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/e5790191-ffb0-411c-bca4-325743f94bdb" />
 
 <img width="1919" height="1047" alt="image" src="https://github.com/user-attachments/assets/c60e30bd-5fd6-4392-b5da-83d5e1e29bb2" />
 
